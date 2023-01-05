@@ -1,8 +1,9 @@
 import './App.css';
+import './assets/style/font.css'
 
 function App() {
   return (
-    <div >
+    <div style={{fontFamily:"regular"}} >
       AlManhaj
     </div>
   );
