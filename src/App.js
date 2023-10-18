@@ -1,10 +1,11 @@
 import './App.css';
 import './assets/style/font.css'
+import HomeScreen from './Screens/HomeScreen';
 
 function App() {
   return (
     <div style={{fontFamily:"regular"}} >
-      AlManhaj
+      <HomeScreen />
     </div>
   );
 }
